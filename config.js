@@ -14,13 +14,13 @@ window.FDA_CONFIG = {
   agencyName: "Larimer County",
 
   // true = sample data from the Nov 18, 2026 dashboard; false = live data
-  demo: true,
+  demo: false,
 
   // Your ArcGIS Online org address (used for sign-in)
   portalUrl: "https://larimer.maps.arcgis.com",
 
   // Client ID from the OAuth credentials item you create in ArcGIS Online
-  oauthClientId: "",
+  oauthClientId: "dZsYlnB41C1qPB9g",
 
   // FireRestriction_Zones item. The app looks up the service URL from this ID.
   zonesItemId: "0e12da304d034822a1080b76006ded91",
